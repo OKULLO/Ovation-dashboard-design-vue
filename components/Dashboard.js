@@ -6,7 +6,7 @@ const template=
     <div class='flex flex-wrap md:flex-nowrap '>
 
     <div class='md:flex w-full md:w-full md:h-full lg:w-1/2 pl-4 '>
-    <div class="grid gap-6 mb-8 md:grid-cols-2 xl:grid-cols-4">
+    <div class="grid gap-6 mb-8 md:grid-cols-2 xl:grid-cols-2">
       <!-- Card -->
       <div
         class="flex flex-col  justify-start p-4 bg-white rounded-xl shadow-xs dark:bg-gray-800"
